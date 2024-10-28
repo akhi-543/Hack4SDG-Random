@@ -31,7 +31,7 @@ These barriers prevent many innovators from moving forward, and PitchGram seeks 
   The interactive UI/UX prototype for PitchGram was designed using Figma. It showcases the core user experience, allowing viewers to navigate the interface, explore different sections, and interact with sample content, simulating the app's flow and functionality.
 
 ## View the Prototype
-  Figma Link-https : www.figma.com/proto/h3U5HFGhAGOr7lNyeI3MND/Template?node-id=0-1&t=kV2cv3rFBz9C747j-1
+  Figma Link : www.figma.com/proto/h3U5HFGhAGOr7lNyeI3MND/Template?node-id=0-1&t=kV2cv3rFBz9C747j-1
 ## Future Scope
  - **Global Reach**: Multi-language support.
   - **AI Integration**: Personalized content recommendations.
