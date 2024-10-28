@@ -1,3 +1,4 @@
+![HACK4SDG](https://github.com/user-attachments/assets/8d82b562-e6f1-4941-a316-6a896fcf86da)
 # PitchGram - Reel Your Ideas, Realize Your Dreams
 **PitchGram** is a conceptual app designed to provide a platform for individuals, especially from underrepresented areas, to pitch their ideas to a global audience through engaging short-form reels. This repository includes an interactive UI/UX prototype developed in Figma.
 
